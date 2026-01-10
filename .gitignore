@@ -1,0 +1,4 @@
+orthanc_db/
+node_modules/
+.env
+.DS_Store
